@@ -20,6 +20,7 @@ redirect_from:
 **Laboratories:** Laboratoire Informatique, Image et Interaction (L3i) and Laboratoire Bordelais de Recherche en Informatique (LaBRI)
 
 **Supervisors:** Marie BEURTON-AIMAR (LaBRI, Bordeaux University), Muriel VISANI (L3i, La Rochelle University), Thierry URRUTY (Xlim, Poitiers University)
+
 ---
 
 # Education
@@ -31,6 +32,7 @@ redirect_from:
 ## 2014--2015: First year of Agricultural engineering school, at Bordeaux Sciences Agro
 
 ## 2012--2014: Prépa BCPST - Biology, Chemistry, Physics and Geology, at Fénelon, Paris
+
 ---
 
 # Skills
