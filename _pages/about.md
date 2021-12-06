@@ -10,7 +10,7 @@ redirect_from:
 {% include base_path %}
 
 # Cecilia Ostertag
-![Picture](https://github.com/CeciliaOstertag/ceciliaostertag.github.io/blob/master/images/photo.png)
+<img src="https://github.com/CeciliaOstertag/ceciliaostertag.github.io/blob/master/images/photo.png" alt="hi" class="inline"/>
 ---
 
 # About me
