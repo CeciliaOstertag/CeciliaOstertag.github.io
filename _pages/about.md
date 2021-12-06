@@ -31,4 +31,4 @@ I'm a PhD student in computer science. I use deep learning models to analyze bio
 **Automatic assembly of fragmented ancient documents:** Conception and implementation of siamese neural networks for pairwise fragment matching, and use of graph-based approaches for complete assembly proposal
 
 
-<img src="https://github.com/CeciliaOstertag/ceciliaostertag.github.io/blob/master/images/recon_bien.png" alt="papyrus reconstruction" class="inline"/>
+<img src="https://github.com/CeciliaOstertag/ceciliaostertag.github.io/blob/master/images/recon_bien2.png" alt="papyrus reconstruction" class="inline"/>
