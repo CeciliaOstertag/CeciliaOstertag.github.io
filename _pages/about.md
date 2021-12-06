@@ -8,6 +8,13 @@ redirect_from:
   - /about.html
 ---
 
+# Cecilia Ostertag
+---
+
+# About me
+---
+I'm a PhD student in computer science. I use deep learning models to analyze bio-medical data and old documents.
+
 # Research topics
 ---
 ## Deep learning for bio-medical data:
