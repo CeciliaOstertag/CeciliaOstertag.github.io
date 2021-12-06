@@ -30,6 +30,6 @@ Siamese neural network for pairwise patch assemblies.
 
 Graph-NN model for pairwise patch assemblies and global image reconstruction.
 
-##VisuGraph: [link](https://github.com/CeciliaOstertag/VisuGraph)
+## VisuGraph: [link](https://github.com/CeciliaOstertag/VisuGraph)
 
 Interactive interface for the visualization and manipulation of assembly graphs produced by the AssemblyGraphNet model.
