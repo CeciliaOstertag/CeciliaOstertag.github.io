@@ -53,7 +53,7 @@ atom_feed:
 # Site Author
 author:
   name             : "Cecilia Ostertag"
-  avatar           : "photo.jpg"
+  avatar           : "photo.png"
   bio              : "PhD student in computer science"
   location         : "Bordeaux"
   employer         :
